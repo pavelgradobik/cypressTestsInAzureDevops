@@ -1,0 +1,29 @@
+{
+  "name": "cypressTestsInAzureDevops",
+  "version": "1.0.0",
+  "description": "Run Cypress tests in Azure DevOps training session",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open",
+    "lint": "eslint . --ext .js --ext .ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavelgradobik/cypressTestsInAzureDevops.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pavelgradobik/cypressTestsInAzureDevops/issues"
+  },
+  "homepage": "https://github.com/pavelgradobik/cypressTestsInAzureDevops#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.7.0",
+    "@typescript-eslint/parser": "^4.7.0",
+    "cypress": "^5.6.0",
+    "eslint": "^7.13.0",
+    "typescript": "^4.0.5"
+  }
+}
