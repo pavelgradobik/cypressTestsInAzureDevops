@@ -1,1 +1,8 @@
-{}
+
+{
+    "env": {
+        "openTotal": 20000,
+        "totalCheckInterval": 1000
+    },
+    "video": false
+}

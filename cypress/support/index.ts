@@ -15,9 +15,9 @@
 
 // Import commands.js using ES2015 syntax:
 import './commands'
-import './basePage'
-import './mainCatalogSearchMenu'
-import './subCatalogSearchMenu'
+import '../pageObjects/base.page'
+import '../pageObjects/menuComponents/mainCatalogSearchMenu.component'
+import '../subCatalogSearchMenu.component'
 
 // Alternatively you can use CommonJS syntax:
 // require('./commands')

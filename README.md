@@ -1,2 +1,3 @@
-# cypressTestsInAzureDevops
-Run Cypress tests in Azure DevOps training session
+## cypress tests
+* Run Cypress tests with GitHub Actions
+
